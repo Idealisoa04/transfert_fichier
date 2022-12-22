@@ -1,0 +1,13 @@
+
+Texte52.txt =>C:\Users\Idealisoa\Desktop\Exemple.txt
+Texte99.txt =>C:\Users\Idealisoa\Desktop\Exemple.txt
+Texte24.txt =>C:\Users\Idealisoa\Desktop\Idealisoa.txt
+Texte4.txt =>C:\Users\Idealisoa\Desktop\Idealisoa.txt
+Texte50.txt =>C:\Users\Idealisoa\Desktop\Exemple.txt
+Texte55.txt =>C:\Users\Idealisoa\Desktop\Exemple.txt
+Texte89.txt =>C:\Users\Idealisoa\Desktop\Exemple.txt
+Texte46.txt =>C:\Users\Idealisoa\Desktop\Exemple.txt
+Texte88.txt =>C:\Users\Idealisoa\Desktop\Exemple.txt
+Texte90.txt =>C:\Users\Idealisoa\Desktop\Exemple.txt
+Texte54.txt =>C:\Users\Idealisoa\Desktop\Exemple.txt
+Texte76.txt =>C:\Users\Idealisoa\Desktop\Exemple.txt
